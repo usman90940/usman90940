@@ -46,7 +46,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/usman90940">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman90940&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman saeed :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usma90940&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman saeed :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/usman90940">
