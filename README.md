@@ -45,11 +45,11 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/usman90940/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman90940&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman90940 :: Top Langs" /></a>
+          <a href="https://github.com/usman90940">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman90940&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman saeed :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/usman90940/">
+          <a href="https://github.com/usman90940">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=usman90940&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=usman90940&theme=gruvbox&hide_border=true" />
           </a>
