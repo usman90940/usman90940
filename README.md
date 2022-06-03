@@ -52,10 +52,10 @@
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="https://github.com/usman90940/" target="blank"><img align="center" 
+  <a href="github.com/usman90940/" target="blank"><img align="center" 
      src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
-  <a href="https://github.com/usman90940/" target="blank"><img align="center" 
+  <a href="github.com/usman90940/" target="blank"><img align="center" 
      src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
