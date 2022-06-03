@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/usman-saeed-ba8608179/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="[https://fb.com/1999AZZAR](https://www.facebook.com/usmansaeed90940/)" target="blank"><img align="center"
+      <a href="https://www.facebook.com/usmansaeed90940/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
@@ -44,10 +44,10 @@
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="https://github.com/usman90940/" target="blank"><img align="center" 
+  <a href="github.com/usman90940/" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
-  <a href="https://github.com/usman90940/" target="blank"><img align="center" 
+  <a href="github.com/usman90940/" target="blank"><img align="center" 
      src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
      alt="account age" /></a>
   </p>
