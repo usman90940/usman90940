@@ -9,11 +9,9 @@
        alt="snake" />
 </div>
 
-<details>
-  <summary>☎️ contact me</summary>
-<div>
+
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center"> You Can Reach Me By:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/usman-saeed-ba8608179/" target="blank"><img align="center"
@@ -37,32 +35,31 @@
     </p>
   </samp>
 </div>
-</details>
+</div>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+<div> 
+ 
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 Github Statistics </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/usman90940">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman90940&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman saeed :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman90940&count_private=true&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="usman saeed :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/usman90940">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=usman90940&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=usman90940&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=usman90940&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=usman90940&count_private=true&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
-</details>
+</div>
 
-<details>
-  <summary>📈 Activity Graph</summary>
+<div>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center"> My Current Activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Usman's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=usman90940&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+</div>
 
 ------
