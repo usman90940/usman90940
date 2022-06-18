@@ -59,7 +59,7 @@
 <div>
   <br/>
   <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Usman's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=usman90940&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a><img alt="Usman's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=usman90940&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </div>
 
 ------
